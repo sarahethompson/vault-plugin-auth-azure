@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	azureauth "github.com/hashicorp/vault-plugin-auth-azure"
+	azureauth "github.com/sarahethompson/vault-plugin-auth-azure"
 	"github.com/hashicorp/vault/api"
 	"github.com/hashicorp/vault/sdk/plugin"
 )
