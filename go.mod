@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault-plugin-auth-azure
+module github.com/sarahethompson/vault-plugin-auth-azure
 
 go 1.12
 
